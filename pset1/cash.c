@@ -1,3 +1,4 @@
+//it calculates how many coines you get in your cash change
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
