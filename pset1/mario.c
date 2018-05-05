@@ -1,3 +1,4 @@
+//it prints a piramid , the hight is the users choice
 #include <stdio.h>
 #include <cs50.h>
 
