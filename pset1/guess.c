@@ -1,3 +1,4 @@
+//guess the number between 1 and 10
 #include <stdio.h>
 #include <cs50.h>
 #include <stdlib.h>
